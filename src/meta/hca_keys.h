@@ -1248,6 +1248,9 @@ static const hcakey_info hcakey_list[] = {
         // Tower of Sky (Android)
         {5893902754391672},     // 0014F0792C042678
 
+        // loststories(cn)
+        {9182735170},       //test
+
 };
 
 #endif/*_HCA_KEYS_H_*/
